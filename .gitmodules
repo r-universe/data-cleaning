@@ -37,6 +37,10 @@
 	url = https://github.com/data-cleaning/validate
 	shallow = true
 	subdir = pkg
+[submodule "validatedb"]
+	path = validatedb
+	url = https://github.com/data-cleaning/validatedb
+	shallow = true
 [submodule "validatetools"]
 	path = validatetools
 	url = https://github.com/data-cleaning/validatetools
