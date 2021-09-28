@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dcmodifydb",
+    "oncran": true
+  },
+  {
     "package": "deducorrect",
     "oncran": true
   },
