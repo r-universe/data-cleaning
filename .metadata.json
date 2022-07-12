@@ -1,34 +1,10 @@
 [
   {
-    "package": "dcmodify",
-    "oncran": true
-  },
-  {
     "package": "dcmodifydb",
     "oncran": true
   },
   {
-    "package": "deducorrect",
-    "oncran": true
-  },
-  {
-    "package": "deductive",
-    "oncran": true
-  },
-  {
-    "package": "editrules",
-    "oncran": true
-  },
-  {
     "package": "errorlocate",
-    "oncran": true
-  },
-  {
-    "package": "lintools",
-    "oncran": true
-  },
-  {
-    "package": "validate",
     "oncran": true
   },
   {

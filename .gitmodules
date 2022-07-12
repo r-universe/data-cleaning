@@ -3,51 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dcmodify"]
-	path = dcmodify
-	url = https://github.com/data-cleaning/dcmodify
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "dcmodifydb"]
 	path = dcmodifydb
 	url = https://github.com/data-cleaning/dcmodifydb
 	shallow = true
 	registered = true
-[submodule "deducorrect"]
-	path = deducorrect
-	url = https://github.com/data-cleaning/deducorrect
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "deductive"]
-	path = deductive
-	url = https://github.com/data-cleaning/deductive
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "editrules"]
-	path = editrules
-	url = https://github.com/data-cleaning/editrules
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "errorlocate"]
 	path = errorlocate
 	url = https://github.com/data-cleaning/errorlocate
 	shallow = true
-	registered = true
-[submodule "lintools"]
-	path = lintools
-	url = https://github.com/data-cleaning/lintools
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "validate"]
-	path = validate
-	url = https://github.com/data-cleaning/validate
-	shallow = true
-	subdir = pkg
 	registered = true
 [submodule "validatedb"]
 	path = validatedb
