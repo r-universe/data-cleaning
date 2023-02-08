@@ -49,3 +49,13 @@
 	url = https://github.com/data-cleaning/validatetools
 	shallow = true
 	registered = true
+[submodule "dcmodifydb"]
+	path = dcmodifydb
+	url = https://github.com/data-cleaning/dcmodifydb
+	shallow = true
+	registered = true
+[submodule "validatedb"]
+	path = validatedb
+	url = https://github.com/data-cleaning/validatedb
+	shallow = true
+	registered = true

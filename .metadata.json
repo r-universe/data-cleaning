@@ -30,5 +30,11 @@
   {
     "package": "validatetools",
     "oncran": true
+  },
+  {
+    "package": "dcmodifydb"
+  },
+  {
+    "package": "validatedb"
   }
 ]
