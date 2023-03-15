@@ -1,5 +1,9 @@
 [
   {
+    "package": "dcmodify",
+    "oncran": true
+  },
+  {
     "package": "deducorrect",
     "oncran": true
   },
@@ -8,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "validate",
+    "package": "editrules",
+    "oncran": true
+  },
+  {
+    "package": "errorlocate",
     "oncran": true
   },
   {
@@ -16,11 +24,7 @@
     "oncran": true
   },
   {
-    "package": "dcmodify",
-    "oncran": true
-  },
-  {
-    "package": "errorlocate",
+    "package": "validate",
     "oncran": true
   },
   {
@@ -29,10 +33,6 @@
   },
   {
     "package": "dcmodifydb"
-  },
-  {
-    "package": "editrules",
-    "oncran": true
   },
   {
     "package": "validatedb"
