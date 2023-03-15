@@ -9,6 +9,11 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "dcmodifydb"]
+	path = dcmodifydb
+	url = https://github.com/data-cleaning/dcmodifydb
+	shallow = true
+	registered = true
 [submodule "deducorrect"]
 	path = deducorrect
 	url = https://github.com/data-cleaning/deducorrect
@@ -44,18 +49,13 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "validatetools"]
-	path = validatetools
-	url = https://github.com/data-cleaning/validatetools
-	shallow = true
-	registered = true
-[submodule "dcmodifydb"]
-	path = dcmodifydb
-	url = https://github.com/data-cleaning/dcmodifydb
-	shallow = true
-	registered = true
 [submodule "validatedb"]
 	path = validatedb
 	url = https://github.com/data-cleaning/validatedb
+	shallow = true
+	registered = true
+[submodule "validatetools"]
+	path = validatetools
+	url = https://github.com/data-cleaning/validatetools
 	shallow = true
 	registered = true

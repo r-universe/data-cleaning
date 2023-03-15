@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "dcmodifydb"
+  },
+  {
     "package": "deducorrect",
     "oncran": true
   },
@@ -28,13 +31,10 @@
     "oncran": true
   },
   {
+    "package": "validatedb"
+  },
+  {
     "package": "validatetools",
     "oncran": true
-  },
-  {
-    "package": "dcmodifydb"
-  },
-  {
-    "package": "validatedb"
   }
 ]
