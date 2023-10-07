@@ -29,6 +29,9 @@
 	path = validate
 	url = https://github.com/data-cleaning/validate
 	subdir = pkg
+[submodule "validatesuggest"]
+	path = validatesuggest
+	url = https://github.com/data-cleaning/validatesuggest
 [submodule "validatetools"]
 	path = validatetools
 	url = https://github.com/data-cleaning/validatetools
